@@ -14,9 +14,9 @@ The objectives of the system are to:
 
 Languages Used for this projects are:
 
-- Frontend: Html, css and js
+- Frontend: Html, CSS, and JavaScript
 - Backend: PHP and MySQL
-- Microcontroller Programming: Arduino C++
+- Microcontroller Programming: Arduino C
 
 ## PROJECT SETUP
 
